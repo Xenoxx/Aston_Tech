@@ -22,6 +22,12 @@
   padding-left: 50px;
 }
 
+
+@media (max-width: 414px) {
+  .product_disp_grid {
+      grid-template-columns: 1fr;
+
+
 @media (max-width: 750px) {
   .product_disp_grid {
       grid-template-columns: 1fr 1fr;
