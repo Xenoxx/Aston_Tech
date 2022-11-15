@@ -23,7 +23,7 @@
 }
 
 
-@media (max-width: 414px) {
+@media (max-width: 250px) {
   .product_disp_grid {
       grid-template-columns: 1fr;
   }
