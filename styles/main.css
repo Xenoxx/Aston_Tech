@@ -26,13 +26,15 @@
 @media (max-width: 414px) {
   .product_disp_grid {
       grid-template-columns: 1fr;
-
+  }
+}
 
 @media (max-width: 750px) {
   .product_disp_grid {
       grid-template-columns: 1fr 1fr;
   }
 }
+
 @media (min-width: 1000px){
   .product_disp_grid{
       grid-template-columns: 1fr 1fr 1fr 1fr;
